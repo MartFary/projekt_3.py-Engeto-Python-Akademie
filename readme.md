@@ -33,7 +33,7 @@ Celý soubor v csv formátu je k dispozici zde [vystup_nj.csv](vystup_nj.csv)
 Částečná ukázka výstupu:
 <img width="1124" height="123" alt="Image" src="https://github.com/user-attachments/assets/0dc15239-1c3b-4f23-b317-9fe06e92a7e3" />
 
-Částečná ukázka výstupu:  
+
 
 
 
