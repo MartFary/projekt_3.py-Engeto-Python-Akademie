@@ -10,7 +10,9 @@ Knihovny, které jsou použity v kódu, jsou uložené v souboru requirements.tx
 
 ## Spuštění projektu
 Spuštění souboru main.py v rámci příkazového řádku požaduje dva povinné argumenty.  
+  
 *python main.py <URL> <vystup.csv>*  
+  
 kde:  
 URL = odkaz, který územní celek chcete scrapovat  
 vystup.csv = jméno výstupního souboru s příponou csv
