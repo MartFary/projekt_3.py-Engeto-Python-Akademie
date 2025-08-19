@@ -1,0 +1,18 @@
+# Projekt 3 Python akademie - Elections Scraper
+
+## Popis projektu
+Závěrečný projekt prověří nabyté znalosti z celého kurzu. Úkolem je vytvořit scraper výsledků voleb z roku 2017, který vytáhne data přímo z webu [zde]
+(https://www.volby.cz/pls/ps2017nss/ps3?xjazyk=CZ)
+
+## Instalace knihoven
+
+Knihovny, které jsou použity v kódu, jsou uložené v souboru requirements.txt. Pro instalaci se doporučuje použít nové virtuální prostředí.
+
+## Spuštění projektu
+Spuštění souboru main.py v rámci příkazového řádku požaduje dva povinné argumenty. 
+*python main.py <URL> <vystup.csv>*
+kde:
+URL = odkaz, který územní celek chcete scrapovat
+vystup.csv = jméno výstupního souboru s příponou csv
+
+## Ukázka projektu
