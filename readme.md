@@ -31,6 +31,7 @@ Výsledkem je csv soubor, který obsahuje výsledky 54 obcí, které spadají do
 Celý soubor v csv formátu je k dispozici zde [vystup_nj.csv](vystup_nj.csv)   
 
 Částečná ukázka výstupu:  
+![Ukázka výsledků](Ukázka výstupu.png)
 
 
 
