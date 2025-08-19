@@ -31,7 +31,7 @@ Výsledkem je csv soubor, který obsahuje výsledky 54 obcí, které spadají do
 Celý soubor v csv formátu je k dispozici zde [vystup_nj.csv](vystup_nj.csv)   
 
 Částečná ukázka výstupu:
-(https://github.com/MartFary/projekt_3.py-Engeto-Python-Akademie/issues/1#issue-3334169229)
+<img width="1124" height="123" alt="Image" src="https://github.com/user-attachments/assets/0dc15239-1c3b-4f23-b317-9fe06e92a7e3" />
 
 Částečná ukázka výstupu:  
 
