@@ -86,7 +86,13 @@ def main():
         jeden_radek = [kod, nazev, registrovani, obalky, platne_hlasy] + list(strany_a_hlasy.values())
         vsechna_data.append(jeden_radek)
 
-    hlavicka = ["kód_obce", "obec", "registrovaní", "vydané_obálky", "platné_hlasy"] + hlavicka_stran
+    hlavicka = [
+        "kód_obce", 
+        "obec", 
+        "registrovaní", 
+        "vydané_obálky", 
+        "platné_hlasy"
+        ] + hlavicka_stran
     with open(vystup_csv, "w", newline="", encoding="utf-8") as f:
         zapisovac = csv.writer(f)
         zapisovac.writerow(hlavicka)
